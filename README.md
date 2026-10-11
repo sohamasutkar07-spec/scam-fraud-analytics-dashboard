@@ -30,7 +30,7 @@ The detailed table on the overview screenshot shows total amount lost of ₹8,67
 - Amount lost by scam type
 - App-level case counts, total losses, and average loss per case
 
-![Financial-loss overview](screenshots/01-financial-loss-overview.png)
+![Financial-loss overview](screenshots/Screenshot%202025-11-29%20002937.png)
 
 ### 2. Demographic and platform analysis
 
@@ -39,7 +39,7 @@ The detailed table on the overview screenshot shows total amount lost of ₹8,67
 - Total cases by platform type
 - Filters for age group, gender, app category, and platform type
 
-![Demographic and platform analysis](screenshots/02-demographic-and-platform-analysis.png)
+![Demographic and platform analysis](screenshots/Screenshot%202025-11-29%20002954.png)
 
 ### 3. State and ban analysis
 
@@ -48,7 +48,7 @@ The detailed table on the overview screenshot shows total amount lost of ₹8,67
 - Case counts by government ban reason
 - Filters for ban status, user state, and app name
 
-![State and ban analysis](screenshots/03-state-and-ban-analysis.png)
+![State and ban analysis](screenshots/Screenshot%202025-11-29%20003007.png)
 
 ### 4. Complaints and recovery outcomes
 
@@ -57,11 +57,11 @@ The detailed table on the overview screenshot shows total amount lost of ₹8,67
 - Case-level table with scam ID, app, state, amount lost, complaint source, and outcome status
 - Filters for complaint source, outcome status, and app name
 
-![Complaints and recovery outcomes](screenshots/04-complaints-and-recovery-outcomes.png)
+![Complaints and recovery outcomes](screenshots/Screenshot%202025-11-29%20003021.png)
 
 ## Files
 
-- `dashboard/visuals-completed-power-bi.pbix` — Power BI Desktop report file
+- `dashboard/visuals%20completed%20power%20bi.pbix` — Power BI Desktop report file
 - `screenshots/` — exported screenshots of the four report views
 
 ## Tools and techniques
