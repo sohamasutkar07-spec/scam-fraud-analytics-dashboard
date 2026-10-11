@@ -1,7 +1,7 @@
-# Power BI File
+# Power BI Report
 
-Upload the Power BI Desktop report here using GitHub's web interface.
+The Power BI Desktop report supplied for this project is stored here:
 
-Expected filename: `visuals-completed-power-bi.pbix`
+[`visuals completed power bi.pbix`](visuals%20completed%20power%20bi.pbix)
 
-The file was supplied for this portfolio project. After uploading, open it in Power BI Desktop and verify that the measures, data model, slicers, and visuals refresh and work as expected.
+Open the file with Power BI Desktop. Before presenting the report as fully validated, check that it opens, the data source paths are available, measures refresh, and slicers interact with the visuals as expected.
