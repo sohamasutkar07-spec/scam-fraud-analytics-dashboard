@@ -61,7 +61,7 @@ The detailed table on the overview screenshot shows total amount lost of ₹8,67
 
 ## Files
 
-- `dashboard/visuals%20completed%20power%20bi.pbix` — Power BI Desktop report file
+- [Power BI Desktop report file](dashboard/visuals%20completed%20power%20bi.pbix) — `visuals completed power bi.pbix`
 - `screenshots/` — exported screenshots of the four report views
 
 ## Tools and techniques
